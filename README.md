@@ -20,9 +20,9 @@ Este proyecto implementa un entorno virtualizado con:
 
 | VM | Runtime | APIs | IP |
 |----|---------|------|-----|
-| VM1 | Containerd | API1, API2 | 192.168.122.10 |
-| VM2 | Podman | API3 | 192.168.122.11 |
-| VM3 | Docker | Zot (5000) | 192.168.122.12 |
+| VM1 | Containerd | API1, API2 | 192.168.122.80 |
+| VM2 | Podman | API3 | 192.168.122.80 |
+| VM3 | Docker | Zot (5000) | 192.168.122.80 |
 
 ---
 
