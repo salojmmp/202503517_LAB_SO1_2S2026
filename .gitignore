@@ -1,0 +1,20 @@
+# Archivos generados por compilación del kernel
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+*.order
+*.cmd
+Module.symvers
+modules.order
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Entornos y archivos locales
+.env
+.env.*
+!.env.example
